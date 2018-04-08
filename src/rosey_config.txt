@@ -1,0 +1,4 @@
+receipts/bus\ *.pdf, /Users/you/business/current-receipts
+receipts/per\ *.pdf, /Users/you/personal/current-receipts
+
+
